@@ -1,13 +1,12 @@
 {
   "name": "PKCE",
   "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
   "scripts": {
     "start": "node index.js"
   },
+  "main": "index.js",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.4"
+    "express": "^4.16.4",
   }
 }
